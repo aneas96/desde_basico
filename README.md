@@ -1,1 +1,7 @@
-# desde_basico
+# include <iostream>
+  
+int main()
+{ 
+  printf("hello mundo");
+  return 0;
+}
